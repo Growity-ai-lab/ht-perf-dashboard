@@ -1,120 +1,51 @@
-# Basic identity
 name: "Helin Tunalı"
 location: "Istanbul, Türkiye"
 email: "helintunali@gmail.com"
-linkedin: "https://www.linkedin.com/in/helintunali"
 
 career_goal:
-  short_term: "Derin teknik bilgiye sahip, full-funnel odaklı Performance Marketing Specialist olmak."
-  long_term: "Senior Performance / Growth Specialist veya Performance Lead rolüne yükselmek."
+  short_term: "Full-funnel odaklı Performance Marketing Specialist seviyesine yükselmek."
+  long_term: "Senior Performance / Growth Specialist olmak."
 
-# Education
-education:
-  - degree: "Bachelor of Arts in Public Relations"
-    institution: "Istanbul Bilgi University"
-    years: "2019-2024"
-    notes:
-      - "High honors graduate"
-      - "Coursework: Strategic Communication Planning, Crisis Communication, Social Media Management"
-
-# Languages
-languages:
-  - name: "Turkish"
-    level: "Native"
-  - name: "English"
-    level: "Fluent"
-
-# Core skills
 skills:
-  digital_marketing:
-    - "Google Ads"
-    - "Meta Ads"
-    - "TikTok Ads"
-    - "Sprinklr"
-    - "Campaign Manager 360"
-    - "DV360"
-    - "SEO optimization"
+  digital_ads:
+    - Meta Ads
+    - Google Ads
+    - TikTok Ads
+    - Criteo
+    - Sprinklr
+    - Campaign Manager 360
+    - DV360
   analytics:
-    - "Excel"
-    - "Google Analytics / GA4"
-    - "Looker Studio (dashboard reading & basic building)"
-  content_and_creative:
-    - "Canva"
-    - "Visual storytelling"
-    - "Social media strategy"
-    - "Copywriting & content writing"
+    - Excel
+    - GA4
+    - Looker Studio
+  creative:
+    - Canva
+    - Visual storytelling
   soft_skills:
-    - "Strong written and verbal communication"
-    - "Team collaboration"
-    - "Attention to detail"
-    - "Curiosity and willingness to learn"
+    - Communication
+    - Collaboration
+    - Analytical thinking
 
-# Experience (short, structured)
 experience:
-  - company: "Publicis Groupe"
-    role: "Biddable Executive"
+  - role: "Biddable Executive"
+    company: "Publicis Groupe"
     period: "March 2025 – Present"
-    focus:
-      - "Full-funnel digital campaigns for luxury brands (Sephora, Louis Vuitton, YSL, Prada, Mugler, Bvlgari, Lancôme)"
-      - "Campaign setup & optimization on Meta, TikTok, Google Ads, Sprinklr"
-      - "Daily pacing, KPI tracking (CPV, CPM, ROAS, CPA)"
-      - "Media planning and budget allocation based on brand briefs"
-      - "Proof reports and creative guideline checks before launch"
-  - company: "Publicis Groupe"
-    role: "Biddable Intern"
+    highlights:
+      - "Full-funnel campaign setup and optimizations"
+      - "Luxury brands: Sephora, LV, YSL, Prada, Mugler, Bvlgari"
+      - "Daily pacing, KPI tracking, creative QA"
+  - role: "Biddable Intern"
+    company: "Publicis Groupe"
     period: "Jan 2025 – March 2025"
-    focus:
-      - "Assisted full-funnel campaigns for LVMH luxury portfolio"
-      - "Helped with campaign setup and optimizations"
-  - company: "Publicis Groupe | Performics Academy"
-    role: "Digital Marketing Trainee"
+  - role: "Digital Marketing Trainee"
+    company: "Performics Academy"
     period: "Dec 2024 – Jan 2025"
-    focus:
-      - "Media planning, programmatic basics, performance marketing fundamentals"
-  - company: "Flormar"
-    role: "Customer Acquisition Strategy Developer"
-    period: "Apr 2024 – Jun 2024"
-    achievements:
-      - "Helped drive ~12% increase in customer engagement in store"
-  - company: "Pazarlama 3.0"
-    role: "Content Writer"
-    period: "Oct 2022 – Dec 2023"
-    achievements:
-      - "SEO-optimized content increasing website traffic over time"
-  - company: "Bilim Kahramanları Derneği"
-    role: "Social Media Content Designer"
-    period: "Nov 2023 – Dec 2023"
-  - company: "Tamek"
-    role: "Performance Marketing Intern"
-    period: "Oct 2023 – Jan 2024"
 
-# Certificates (short list, most relevant to performance marketing)
-certificates:
-  - "Google Ads Search Certification (Google Skillshop)"
-  - "Foundations of Digital Marketing and E-commerce (Google)"
-  - "Performics Academy – Digital Marketing Certificate"
-  - "Measure and Optimize Social Media Marketing Campaigns (Meta)"
-  - "How to Set Up a Facebook Ads Campaign (HarvardX micro course)"
-  - "Fundamentals of Marketing Strategy (University of London)"
-  - "Google Analytics for Beginners"
-  - "Excel and Copilot Fundamentals (Microsoft)"
-
-# Constraints & preferences
-preferences:
-  sector_interest:
-    - "E-commerce"
-    - "Beauty & cosmetics"
-    - "Luxury & fashion"
-    - "Retail & omni-channel"
-  work_style:
-    - "Learns fast with concrete examples"
-    - "Enjoys combining creative work with data"
-
-# Learning focus for the next 24 months
 learning_focus:
-  - "Deep mastery in Meta & Google Ads (tROAS, tCPA, value-based bidding, PMax advanced setup)"
-  - "GA4 + GCLID + offline conversion flows"
-  - "Full-funnel strategy: awareness → consideration → conversion"
-  - "A/B testing frameworks and creative testing"
-  - "Lead gen funnels and CRM-linked performance"
-  - "Basic SQL & dashboarding skills"
+  - Meta & Google advanced bidding (tROAS, tCPA)
+  - PMax advanced setup
+  - Offline conversions + CRM integration
+  - Funnel strategy
+  - Creative x Performance framework
+  - Basic SQL
